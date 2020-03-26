@@ -5,5 +5,7 @@ HARNESSING ARTIFICIAL INTELLIGENCE ALGORITHMS
 - Forward chaining implimentattion (Session 7.2 PCW)
 - Assumption-based Truth Maintenance System (Code by Prof. Shekhar)
 - **Assignment 2:** DPLL algorithm (model satisfiability)  
-  
+   
+ - **Final Project:** Hashiwokakero Puzzle  
+ 
 ![Github](https://github.com/Tahahaha7/Harnessing_Artificial_Intelligence_Algorithms/blob/master/output_3_1.png)
